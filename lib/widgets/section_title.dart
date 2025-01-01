@@ -1,3 +1,4 @@
+import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 
 class SectionTitle extends StatelessWidget {
@@ -6,6 +7,7 @@ class SectionTitle extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+
     return Padding(
       padding: const EdgeInsets.only(
         top: 30,
@@ -18,7 +20,7 @@ class SectionTitle extends StatelessWidget {
           fontWeight: FontWeight.bold,
           color: Colors.black,
         )
-      ),
+      ).tr(),
     );
   }
 }

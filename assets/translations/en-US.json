@@ -1,0 +1,15 @@
+{
+  "appTitle": "Shopping Application",
+  "productsSectionTitle": "Our Products",
+  "offersSectionTitle": "Hot Offers",
+  "hotSectionTitle": "Hot Products",
+  "loginFormTitle": "Login Form",
+  "fullName": "Full Name",
+  "email": "Email",
+  "password": "Password",
+  "confirmPass": "confirm Password",
+  "signUp": "Sign Up",
+  "wellDone": "Well Done",
+  "accountCreated": "Account Created Successfully",
+  "close": "Close"
+}

@@ -1,0 +1,15 @@
+{
+  "appTitle": "تطبيق التسوق",
+  "productsSectionTitle": "منتجاتنا",
+  "offersSectionTitle": "عروض لفترة محدودة",
+  "hotSectionTitle": "أفضل المنتجات",
+  "loginFormTitle": "استمارة تسجيل الدخول",
+  "fullName": "الاسم بالكامل",
+  "email": "البريد الالكتروني",
+  "password": "الرقم السري",
+  "confirmPass": "تأكيد الرقم السري",
+  "signUp": "التسجيل",
+  "wellDone": "أحسنت",
+  "accountCreated": "تم انشاء حسابك بنجاح",
+  "close": "اغلاق"
+}
